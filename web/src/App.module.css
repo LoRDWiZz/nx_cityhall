@@ -1,0 +1,16 @@
+.tab {
+    &:hover {
+        background-color: transparent !important;
+    }
+
+    &[data-active] {
+        color: #2596be;
+        font-weight: bold;
+    }
+}
+
+.close {
+    &:hover {
+        background-color: transparent !important;
+    }
+}
