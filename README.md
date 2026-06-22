@@ -26,5 +26,7 @@
 - [qb-inventory](https://github.com/qbcore-framework/qb-inventory) / [ox_inventory](https://github.com/overextended/ox_inventory)
 - [qbx_idcard](https://github.com/Qbox-project/qbx_idcard) (For qbx_core)
 
+## 🛒 Other releases
+- Check my other releases at: [Tebex](https://nexitydev.tebex.io/)
 ## 🎟️Support
 - [Nexity Developement Discord](https://discord.gg/nwZes6UXZH)
